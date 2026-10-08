@@ -63,24 +63,6 @@
 |:--|:--|:--|
 | **IT Support**<br>Windows · Active Directory · PowerShell | **Linux & Networking**<br>Python · Practical automation | **Infrastructure / DevOps**<br>Containers · CI/CD · IaC · Cloud |
 
-**Current focus:**
-- Linux fundamentals
-- Python basics and university assignments
-- Better understanding of networking and system behavior
-- Hands-on practice through labs and small projects
-
-**Next steps:**
-- Shell scripting
-- Docker
-- CI/CD basics
-- Infrastructure as Code
-
-**Longer-term interests:**
-- Kubernetes
-- Observability / monitoring
-- Cloud-native engineering
-
----
 
 ## 📜 Quest log
 
