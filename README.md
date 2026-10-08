@@ -72,7 +72,7 @@ Creating and studying games with Unity and C#
 ---
 
 ## 🗺️ Adventure path
-
+⠀⠀⠀
 ⠀⠀⠀⠀⣠⣴⠶⠷⠶⣦⡀⠀⠀⠀⣀⣴⠶⠿⣶⣦⣀
 ⠀⠀⢀⣾⡟⠁⠀⠀⠀⠀⠙⣦⢀⡼⠋⠀⣀⠀⠀⠙⠻⣦
 ⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠈⠟⠀⢀⣿⣿⣇⠀⠀⢀⠙⠆
@@ -83,7 +83,8 @@ Creating and studying games with Unity and C#
 ⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⡆⣿⣿⣿⡿⠁
 ⠀⠀⠀⠀⠀⠀⠀⠉⠻⣦⡈⣿⣿⣿⣿⣿⣿⣿⣿⠈⠉⠉
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣎⠛⣛⢿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠏⠀⠉⠻⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠏⠀⠉⠻⠿⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## 🌳 Engineering Talent Tree
 
