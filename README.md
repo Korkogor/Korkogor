@@ -46,17 +46,6 @@
   <img src="https://skillicons.dev/icons?i=bash,docker,terraform,kubernetes,ansible" alt="Bash, Docker, Terraform, Kubernetes, Ansible" />
 </p>
 
-### 🚀 My engineering journey
-
-```text
-IT Support ──► Linux & Networking ──► Automation ──► DevOps / Cloud
-                 ▲                       ▲
-               Python              CI/CD · IaC
-```
-
-**Right now:** Linux fundamentals, Python practice, and university coursework.  
-**Next:** Shell scripting, Docker, CI/CD, and Infrastructure as Code.  
-**Later:** Kubernetes, observability, and cloud-native engineering.
 
 ### 📁 What you'll find here
 
@@ -74,15 +63,6 @@ IT Support ──► Linux & Networking ──► Automation ──► DevOps / 
     </td>
   </tr>
 </table>
-
-### 🌱 What I'm focusing on
-
-- Better understanding **Linux, networking, and system behavior** — not just memorizing commands.
-- Writing useful **Python and PowerShell scripts**.
-- Building hands-on projects that connect **code, infrastructure, and automation**.
-- Continuing to learn **C# and Unity** through game prototypes.
-
----
 
 <div align="center">
   <sub>⚡ One repository at a time — from learning exercises to real engineering projects.</sub>
