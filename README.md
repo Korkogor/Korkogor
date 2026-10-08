@@ -5,8 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,35:1b2a4a,70:5b3c88,100:d4af37&height=210&section=header&text=KORKOGOR&fontSize=52&fontColor=f8e7b9&animation=fadeIn&fontAlignY=37&desc=IT%20Support%20%E2%9A%94%20Future%20DevOps%20Engineer%20%E2%9A%94%20Unity%20Adventurer&descSize=16&descAlignY=60" alt="Korkogor WoW-inspired profile header" width="100%" />
 
 # ⚔️ Welcome to my character profile ⚔️
-
-**Korkogor**  
+  
 *IT Support Engineer → Infrastructure / DevOps Engineer*  
 *Side quest: Unity & C# game development*
 
@@ -22,11 +21,11 @@
 
 ## 🛡️ Character sheet
 
-- **Current role:** Junior IT Support Engineer  
+- **Current role:** IT Support Engineer  
 - **Main quest:** grow into **Infrastructure / DevOps / Cloud Engineering**  
 - **Training grounds:** Linux, networking, Python, automation, containers and IaC  
-- **University path:** master's degree + extra Python practice  
-- **Side quest:** creating and studying games with **Unity** and **C#**
+- **University path:** Master's student in Computer Science and Engineering, specializing in Information Systems Architecture
+- **Side quest:** creating games with **Unity** and **C#**
 
 ---
 
@@ -65,24 +64,6 @@ IT Support ──► Linux & Networking ──► Automation ──► DevOps / 
               Python                CI/CD · IaC · Containers
 ```
 
-**Current questline:**
-- Linux fundamentals
-- Python basics and university assignments
-- Better understanding of networking and system behavior
-- Hands-on practice through labs and small projects
-
-**Next quests:**
-- Shell scripting
-- Docker
-- CI/CD basics
-- Infrastructure as Code
-
-**Later-game content:**
-- Kubernetes
-- Observability / monitoring
-- Cloud-native engineering
-
----
 
 ## 📜 Quest log
 
@@ -101,22 +82,10 @@ IT Support ──► Linux & Networking ──► Automation ──► DevOps / 
   </tr>
 </table>
 
----
-
-## 🔥 Current focus
-
-- strengthening my **Linux** base instead of memorizing commands blindly;
-- learning to solve tasks first with my own head, then with documentation and only then with AI help;
-- building practical skills in **Python**, **PowerShell**, and automation;
-- gradually moving from support mindset to **engineering mindset**;
-- keeping my creative energy alive through **Unity** and **game development**.
-
----
 
 ## 🏰 Guild message
 
-> Every serious engineer starts somewhere.  
-> Mine starts with support, labs, scripts, and a lot of persistence.
+> Every serious engineer starts somewhere.
 
 <div align="center">
   <sub>⚡ Forging skills one quest at a time.</sub>
