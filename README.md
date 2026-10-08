@@ -20,14 +20,27 @@
 
 ---
 
-## 🛡️ Character sheet
+## 🛡️ Character Sheet
 
-- **Current role:** IT Support Engineer
-- **University path:** 🎓 Master's student in Computer Science and Engineering, specializing in Information Systems Architecture
-- **Main quest:** grow into **Infrastructure / DevOps / Cloud Engineering**  
-- **Training grounds:** Linux, networking, Python, automation, containers and IaC
-- **Academic research:** exploring Infrastructure as Code and preparing research papers on infrastructure automation  
-- **Side quest:** creating and studying games with **Unity** and **C#**
+### 🖥️ Current Role
+IT Support Engineer
+
+### 🎓 Education
+Master's student in Computer Science and Engineering,
+specializing in Information Systems Architecture
+
+### ⚔️ Main Quest
+Infrastructure / DevOps / Cloud Engineering
+
+### 📚 Training Grounds
+Linux, Networking, Python, Automation, Containers and IaC
+
+### 🔬 Academic Research
+Exploring Infrastructure as Code and preparing
+research papers on infrastructure automation
+
+### 🎮 Side Quest
+Creating and studying games with Unity and C#
 
 ---
 
@@ -59,6 +72,23 @@
 ---
 
 ## 🗺️ Adventure path
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠄⠐⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠤⠠⠄⣀⡀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠑⢯⣀⢂⡀⠐⣶⣿⣿⣿⣇⣴⣶⣦⡀⠀⠰⣤⣄⢀⢀⣘⠼⠗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠈⠓⠒⠉⠟⠻⣻⣿⣿⣿⣿⣷⣖⠶⠛⠿⠚⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⠻⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠅⠈⠛⣿⣿⣿⣿⣿⣷⣄⠀⠀⣾⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⡿⠋⠀⠀⠁⢰⣿⣿⠇⠀⠙⢿⣷⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠺⠉⠀⠀⠀⠀⢰⣶⠋⠀⠀⠀⠀⠉⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣬⣿⣧⡴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⡤⠴⠦⢆⣴⣶⣶⣴⠂⠂⠠⢄⣤⡲⠤⠤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⢿⡿⣩⣀⠀⠀⠀⠘⠿⠿⠿⠿⠇⠀⠰⠛⠙⠋⠀⢀⣂⢬⡿⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠐⠒⠒⠒⠒⠒⠒⠒⠒⠒⠀⠈⠉⠁⠉⠀⠀⠀⠀⠀⠀⠀
 
 ## 🌳 Engineering Talent Tree
 
