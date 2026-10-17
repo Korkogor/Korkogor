@@ -44,9 +44,6 @@ specializing in Information Systems Architecture
 ### ⚔️ Main Quest
 Infrastructure / DevOps / Cloud Engineering
 
-### 📚 Training Grounds
-Linux, Networking, Python, Automation, Containers and IaC
-
 ### 🔬 Academic Research
 Exploring Infrastructure as Code and preparing
 research papers on infrastructure automation
@@ -61,21 +58,11 @@ Creating and studying games with Unity and C# 👾
 ### Working with / practicing now
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,python,powershell,git,github" alt="Windows, Linux, Python, PowerShell, Git, GitHub" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Active%20Directory-Working%20environment-1f2937?style=for-the-badge&logoColor=white" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/IT%20Support-Current%20role-1f2937?style=for-the-badge&logoColor=white" alt="IT Support" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,python,powershell,git,github,jupyter,pandas,numpy,matplotlib,pytorch&theme=dark" alt="My Tech Stack" />
 </p>
 
 ### 🔮 Time Series & Forecasting — Master's questline
-
 *Academic side quest: exploring classical forecasting, neural networks and reproducible Python notebooks.*  
-*In progress — these badges represent my coursework toolkit and upcoming topics, not expert-level proficiency.*
-
-**⚔️ Current encounter — Lab 01: ARIMA**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -85,9 +72,6 @@ Creating and studying games with Unity and C# 👾
   <img src="https://img.shields.io/badge/Statsmodels-35495E?style=for-the-badge" alt="Statsmodels" />
   <img src="https://img.shields.io/badge/ARIMA-63428A?style=for-the-badge" alt="ARIMA" />
 </p>
-
-**✨ Upcoming encounters — Labs 02–04**
-
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LSTM-633F93?style=for-the-badge" alt="LSTM" />
@@ -96,8 +80,6 @@ Creating and studying games with Unity and C# 👾
   <img src="https://img.shields.io/badge/NHITS-6741A5?style=for-the-badge" alt="NHITS" />
   <img src="https://img.shields.io/badge/NBEATS-7555A1?style=for-the-badge" alt="NBEATS" />
 </p>
-
-<sub>The LSTM lab permits either PyTorch or TensorFlow; PyTorch is the intended path for this quest. The other models will be added to my hands-on experience as I complete their labs.</sub>
 
 ### Game development — side quest
 
@@ -170,21 +152,6 @@ Creating and studying games with Unity and C# 👾
     </td>
   </tr>
 </table>
-
-
-
-### 📈 New quest unlocked — Forecasting Time Series
-
-*Four university lab encounters, one forecasting adventure. Each lab will be documented in a Jupyter notebook with plots, experiments and explanations.*
-
-| Quest | Models / libraries | Status |
-|:---|:---|:---|
-| **01 — The Classical Oracle** | ARIMA · Statsmodels | 🛠️ In progress |
-| **02 — Memory of the Machine** | LSTM · PyTorch | 🔒 Upcoming |
-| **03 — The Prophet's Vision** | Prophet | 🔒 Upcoming |
-| **04 — Neural Horizons** | NeuralForecast · NHITS / NBEATS | 🔒 Upcoming |
-
-*Repository link will be added after the notebooks are ready for publication.*
 
 ## 🏰 Guild message
 
