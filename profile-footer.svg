@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title">
+  <title id="title">Understand the system. Automate the routine. Keep improving.</title>
+
+  <rect width="1200" height="116" fill="#0B0D11"/>
+  <rect width="5" height="116" fill="#FF293D"/>
+  <text x="36" y="48" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#F5F6F8">Understand the system. Automate the routine.</text>
+  <text x="37" y="81" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing="1.8" fill="#A6ACB7">KEEP LEARNING. KEEP BUILDING.</text>
+  <path d="M1083 38L1107 58L1083 78M1110 38L1134 58L1110 78" fill="none" stroke="#FF293D" stroke-width="7"/>
+
+</svg>

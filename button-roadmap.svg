@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42" role="img" aria-labelledby="title">
+  <title id="title">Explore my learning roadmap</title>
+
+  <rect x="0.5" y="0.5" width="159" height="41" rx="3" fill="#0B0D11" stroke="#343944"/>
+  <text x="17" y="26" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.6" fill="#F5F6F8">LEARNING PATH</text>
+  <path d="M130 26L141 15M131 15H141V25" fill="none" stroke="#FF293D" stroke-width="1.6"/>
+
+</svg>
