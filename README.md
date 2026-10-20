@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/Korkogor?tab=repositories"><img src="button-repositories.svg" width="175" height="42" alt="Browse repositories" /></a>
   &nbsp;
-  <a href="#03--learning-path"><img src="./button-roadmap.svg" width="160" height="42" alt="Explore my learning path" /></a>
+  <a href="#03--learning-path"><img src="button-roadmap.svg" width="160" height="42" alt="Explore my learning path" /></a>
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ Exploring classical forecasting and neural networks through reproducible Python 
 
 | Stage | Focus | Status |
 | :--- | :--- | :---: |
-| **Foundations** | Linux administration, networking, Python, Git | <img src="./status-active.svg" width="74" height="24" alt="Active" /> |
-| **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="./assets/status-next.svg" width="62" height="24" alt="Next" /> |
-| **Infrastructure as Code** | Terraform, repeatable provisioning, configuration management | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
-| **Platform operations** | Kubernetes, cloud infrastructure, observability | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
+| **Foundations** | Linux administration, networking, Python, Git | <img src="status-active.svg" width="74" height="24" alt="Active" /> |
+| **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="status-next.svg" width="62" height="24" alt="Next" /> |
+| **Infrastructure as Code** | Terraform, repeatable provisioning, configuration management | <img src="status-planned.svg" width="86" height="24" alt="Planned" /> |
+| **Platform operations** | Kubernetes, cloud infrastructure, observability | <img src="status-planned.svg" width="86" height="24" alt="Planned" /> |
 
 ## 04 / Research & projects
 
@@ -76,5 +76,5 @@ Small game prototypes and gameplay experiments. A place to practice C#, try mech
 <br />
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" width="100%" alt="Understand the system. Automate the routine. Keep learning. Keep building." />
+  <img src="profile-footer.svg" width="100%" alt="Understand the system. Automate the routine. Keep learning. Keep building." />
 </p>
