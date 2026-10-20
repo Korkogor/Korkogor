@@ -1,192 +1,80 @@
-<!-- WoW-inspired GitHub Profile README for https://github.com/Korkogor -->
+<!-- Korkogor | Personal GitHub profile | red + graphite -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,35:1b2a4a,70:5b3c88,100:d4af37&height=210&section=header&text=KORKOGOR&fontSize=52&fontColor=f8e7b9&animation=fadeIn&fontAlignY=37&desc=IT%20Support%20%E2%9A%94%20Future%20DevOps%20Engineer%20%E2%9A%94%20Unity%20Adventurer&descSize=16&descAlignY=60" alt="Korkogor WoW-inspired profile header" width="100%" />
-
-# ⚔️ Welcome to my character profile ⚔️
-
-**Korkogor**  
-*IT Support Engineer → Infrastructure / DevOps Engineer*  
-*Side quest: Unity & C# game development*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F8E7B9&center=true&vCenter=true&width=760&lines=Forging+my+Linux+and+networking+foundation;Questing+toward+Infrastructure%2C+DevOps+and+Cloud;Practicing+Python%2C+PowerShell+and+automation;Building+small+games+with+Unity+and+C%23" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/Korkogor?tab=repositories"><img src="https://img.shields.io/badge/Quest%20Log-Repositories-2f2f2f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Korkogor — Support. Systems. Automation. Building a path from IT support to infrastructure." />
 </p>
 
-</div>
-
-<pre>
-⠀⠀⠀⠀⣠⣴⠶⠷⠶⣦⡀⠀⠀⠀⣀⣴⠶⠿⣶⣦⣀
-⠀⠀⢀⣾⡟⠁⠀⠀⠀⠀⠙⣦⢀⡼⠋⠀⣀⠀⠀⠙⠻⣦
-⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠈⠟⠀⢀⣿⣿⣇⠀⠀⢀⠙⠆
-⠀⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⣠⣄⠀⢸⣿⣿⡿⢠⣾⣿⣷
-⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣇⠸⣿⣿⠃⣿⣿⣿⡟
-⠀⠀⠸⣧⠀⠀⠀⠀⠀⠀⢸⣿⣿⡟⠿⠿⠟⣀⣀
-⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠙⣋⣤⣶⣾⣷⣦⠀⣠⣿⣿⣿⡆
-⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⡆⣿⣿⣿⡿⠁
-⠀⠀⠀⠀⠀⠀⠀⠉⠻⣦⡈⣿⣿⣿⣿⣿⣿⣿⣿⠈⠉⠉
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣎⠛⣛⢿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠏⠀⠉⠻⠿⠀
-</pre>
-
-## 🛡️ Character Sheet
-
-### 🖥️ Current Role
-IT Support Engineer
-
-### 🎓 Education
-Master's student in Computer Science and Engineering,
-specializing in Information Systems Architecture
-
-### ⚔️ Main Quest
-Infrastructure / DevOps / Cloud Engineering
-
-### 🔬 Academic Research
-Exploring Infrastructure as Code and preparing
-research papers on infrastructure automation
-
-### 🎮 Side Quest
-Creating and studying games with Unity and C# 👾
-
----
-
-## 🧰 Tools & technologies
-
-### Working with / practicing now
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,python,powershell,git,github,jupyter,pandas,numpy,matplotlib,pytorch&theme=dark" alt="My Tech Stack" />
+<p align="center">
+  <a href="https://github.com/Korkogor?tab=repositories"><img src="./assets/button-repositories.svg" width="175" height="42" alt="Browse repositories" /></a>
+  &nbsp;
+  <a href="#03--learning-path"><img src="./assets/button-roadmap.svg" width="160" height="42" alt="Explore my learning path" /></a>
 </p>
 
-### 🔮 Time Series & Forecasting — Master's questline
-*Academic side quest: exploring classical forecasting, neural networks and reproducible Python notebooks.*  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-225F87?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Statsmodels-35495E?style=for-the-badge" alt="Statsmodels" />
-  <img src="https://img.shields.io/badge/ARIMA-63428A?style=for-the-badge" alt="ARIMA" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LSTM-633F93?style=for-the-badge" alt="LSTM" />
-  <img src="https://img.shields.io/badge/Prophet-8366AE?style=for-the-badge" alt="Prophet" />
-  <img src="https://img.shields.io/badge/NeuralForecast-3F7E9E?style=for-the-badge" alt="NeuralForecast" />
-  <img src="https://img.shields.io/badge/NHITS-6741A5?style=for-the-badge" alt="NHITS" />
-  <img src="https://img.shields.io/badge/NBEATS-7555A1?style=for-the-badge" alt="NBEATS" />
+<p align="center">
+  <b>IT Support Engineer</b> &nbsp;→&nbsp; Infrastructure / DevOps / Cloud<br />
+  <sub>Master's student in Computer Science and Engineering · Information Systems Architecture</sub>
 </p>
 
-### Game development — side quest
+## 01 / Profile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs" alt="Unity and C#" />
-</p>
+I work in IT support and am building the skills to move into infrastructure engineering. My current focus is Linux, networking and automation — understanding how systems work, troubleshooting problems and turning routine tasks into scripts.
 
-### Learning roadmap
+Alongside my master's studies, I explore **Infrastructure as Code** and automated configuration management. **Unity and C#** are my creative outlet: small games, prototypes and learning through practice.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,docker,terraform,kubernetes,ansible" alt="Bash, Docker, Terraform, Kubernetes, Ansible" />
-</p>
+## 02 / Toolkit
 
----
+| Area | Tools & topics |
+| :--- | :--- |
+| **Practical foundation** | Windows administration · Active Directory · PowerShell · IT troubleshooting |
+| **Learning & practice** | Linux · Networking · Python · Git · GitHub |
+| **Academic coursework** | Jupyter · Pandas · NumPy · Matplotlib · Time series forecasting |
+| **Game development** | Unity · C# |
 
-## 🗺️ Adventure path
-<pre>
-⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠄⠐⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠤⠠⠄⣀⡀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠑⢯⣀⢂⡀⠐⣶⣿⣿⣿⣇⣴⣶⣦⡀⠀⠰⣤⣄⢀⢀⣘⠼⠗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠈⠓⠒⠉⠟⠻⣻⣿⣿⣿⣿⣷⣖⠶⠛⠿⠚⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⠻⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠅⠈⠛⣿⣿⣿⣟⢿⣷⣄⠀⠀⣾⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⡿⠋⠀⠀⠁⡀⣿⣿⠇⠀⠙⢿⣷⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠺⠉⠀⠀⠀⠀⠀⢀⢿⠋⠀⠀⠀⠀⠉⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠐⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⡲⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣬⣿⣧⡴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⡤⠴⠦⢆⣴⣶⣶⣴⠂⠂⠠⢄⣤⡲⠤⠤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⢿⡿⣩⣀⠀⠀⠀⠘⠿⠿⠿⠿⠇⠀⠰⠛⠙⠋⠀⢀⣂⢬⡿⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠐⠒⠒⠒⠒⠒⠒⠒⠒⠒⠀⠈⠉⠁⠉⠀⠀⠀⠀⠀⠀
-</pre>
-## 🌳 Engineering Talent Tree
+<details>
+<summary><b>Time series & forecasting — coursework details</b></summary>
 
-*Building my skills, one milestone at a time.*
+<br />
 
-| 🛡️ Foundation | 📖 Currently Learning | 🔓 Next Milestones |
-|:---|:---|:---|
-| Windows Administration | Linux Administration | Shell Scripting |
-| Active Directory | Python | Docker & Containers |
-| PowerShell | Networking | CI/CD Pipelines |
-| IT Troubleshooting | Git & Version Control | Terraform & IaC |
+Exploring classical forecasting and neural networks through reproducible Python notebooks.
 
-### 🎯 Long-term Specialization
+- **Analysis & visualization:** Pandas, NumPy, Matplotlib.
+- **Classical forecasting:** Statsmodels, ARIMA.
+- **Neural forecasting:** PyTorch, LSTM, NeuralForecast, NHITS, NBEATS.
+- **Additional forecasting tools:** Prophet.
+
+</details>
+
+## 03 / Learning path
+
 **Infrastructure Engineering → DevOps → Cloud & Platform Engineering**
 
-### 🎮 Secondary Specialization
-**Unity & C#** — Game Development
+| Stage | Focus | Status |
+| :--- | :--- | :---: |
+| **Foundations** | Linux administration, networking, Python, Git | <img src="./assets/status-active.svg" width="74" height="24" alt="Active" /> |
+| **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="./assets/status-next.svg" width="62" height="24" alt="Next" /> |
+| **Infrastructure as Code** | Terraform, repeatable provisioning, configuration management | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
+| **Platform operations** | Kubernetes, cloud infrastructure, observability | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
 
-### 📚 Academic Development
-**Information Systems Architecture** — Master's Studies & Research
+## 04 / Research & projects
 
+### Infrastructure automation
 
-## 📜 Quest log
+My academic research focuses on **Infrastructure as Code and automated management of server configuration state**. I am studying information systems architecture and preparing research papers on infrastructure automation.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 Python learning projects</h3>
-      <p>Small console applications and coursework projects where I practice strings, lists, dictionaries, validation, search logic and cleaner code.</p>
-      <a href="https://github.com/Korkogor?tab=repositories">Open repositories ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Unity / C# experiments</h3>
-      <p>Game development is my creative side quest. I build prototypes, experiment with mechanics and continue learning C# through practice.</p>
-      <a href="https://github.com/Korkogor?tab=repositories">Open game projects ↗</a>
-    </td>
-  </tr>
-</table>
+### Python & forecasting
 
-## 🏰 Guild message
+Console applications and coursework projects: strings, lists, dictionaries, input validation and search logic. Academic notebooks explore data analysis, forecasting and reproducible experiments.
 
-> Every serious engineer starts somewhere.  
+[Explore repositories →](https://github.com/Korkogor?tab=repositories)
 
-<div align="center">
-  <sub>⚡ Forging skills one quest at a time.</sub>
-</div>
-<details>
-<summary>🌙 You've discovered a secret!</summary>
-<pre>
-  ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⣠⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠈⠻⣿⣿⠛⡿⠟⠋⣁⠉⢿
-⣿⣿⣿⣿⣿⣿⡿⠋⢀⣴⣾⠿⠟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣠⡉⠀⣀⣶⣿⣿⡆⢸
-⣿⣿⣿⣿⣿⠟⠀⡴⠟⠋⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢠⣶⣿⣿⣿⡜⡇⠀
-⣿⣿⣿⣿⠏⠀⢊⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢠⣿⣿⣿⣿⣿⠁⡟⠀
-⣿⠟⢻⠃⠀⡴⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢠⣿⣿⣿⣿⣿⣿⢰⡇⠀
-⠡⠶⠀⢠⡾⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢁⣴⣶⣿⣿⣿⡿⠛⣡⣾⣿⣌⠙⡿⠻⡿⠩⣿⡇⣿⣿⣿⣿⣿⣿⠇⣼⠃⣼
-⣦⣤⣴⣿⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣾⣿⣿⣿⠟⢉⠄⢠⣿⣿⣿⣿⡇⢠⠸⡇⠀⢿⡇⣿⣿⣿⣿⣿⡿⢠⡏⢰⣿
-⣿⣿⣿⣿⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⡁⣾⡿⢀⣿⡟⣿⣿⡟⡰⠋⠀⢦⠀⠘⣧⠙⢿⣿⣿⣿⣧⡞⢠⣿⣿
-⣿⣿⣿⡟⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣁⠀⠈⢰⣿⠇⣸⠏⢰⣿⡛⠀⢀⣴⣧⠘⡀⢧⠀⠀⣈⡉⢩⣽⠟⠀⣸⣿⣿
-⣿⣿⣿⡇⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠋⠀⢺⠁⠀⠀⠐⣿⠀⠃⣴⢸⡟⠀⡠⠊⢀⡄⠁⠀⠘⣧⠀⠘⣿⡞⠋⠀⠀⣿⣿⣿
-⣿⣿⣿⠀⣸⣿⣿⡿⢿⣿⣿⣿⣿⠋⣠⣾⡇⢸⠀⠀⠀⣼⡿⠀⣼⣿⢸⠃⡈⠃⠰⡶⠈⠀⣧⡀⢻⣰⣵⠄⠀⣠⠀⢸⣿⣿⣿
-⣿⣿⡏⢀⣿⡿⠋⠀⣼⣿⣿⡿⠁⠘⣿⣿⡇⠈⠲⠂⢰⣿⡇⢰⣿⣯⠈⢠⣧⠀⠀⠀⢀⠀⣿⠿⠂⢉⠀⠀⣼⣿⠀⢸⣿⣿⣿
-⣿⣿⠁⠸⠏⣠⣾⠀⢻⣿⡟⢁⡀⠀⠻⣿⣿⣷⣶⠎⢸⣿⣿⣿⣿⣿⡃⢨⡇⠀⠀⠀⠈⠀⢁⣤⠾⠋⠠⢾⣿⣿⠀⢸⣿⣿⣿
-⣿⠇⠀⣠⣾⣿⡏⠀⠸⣿⠇⡜⠀⠀⢠⣬⣉⣋⡤⣊⣭⣿⠿⣿⣿⣿⣧⡈⢻⣄⠀⠀⢀⣴⠟⢁⣠⣶⡆⠘⣿⣿⠀⢘⣿⣿⣿
-⠏⢀⣾⣿⣿⣿⡇⠀⡄⢻⠀⣠⠰⠀⣿⣿⣿⣿⣬⣭⣤⣶⣶⣦⣄⣉⣿⣿⣿⣿⠇⣰⠟⢁⣴⣿⣿⣿⡇⡆⣿⣿⡄⢸⣿⣿⣿
-⣶⣿⣿⣿⣿⣿⠃⠀⣧⠀⣴⣿⠀⡀⢻⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⡿⠿⣿⣿⣧⡶⠋⣴⣿⣿⣿⣿⣿⣷⠇⢹⣿⡇⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⠀⠀⣿⣄⣿⣿⣿⣤⣄⠙⢿⣿⣿⣿⣦⣭⣤⡍⠉⡅⠢⡙⣻⠿⠁⢠⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⡇⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⣄⠉⠛⠿⣿⣿⣿⣿⡄⢩⡾⡇⠘⠁⢀⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⣿⡇⠘⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀⠈⠉⣉⣀⣠⣀⣤⣤⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⡛⡇⠀⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⣼⣿⣿⣿⡿⠋⣠⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⡇⠹⠀⢿⣿⣿
-⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⣰⣿⣿⡿⠋⣠⣾⣿⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠃⣃⠂⢸⣿⣿
-⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⡇⣠⣿⣿⠟⢠⣾⡿⢛⣿⣇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢠⣿⣆⠀⢿⣿
-⣿⣿⣿⣿⣿⣿⠇⢸⣿⡿⢿⣿⣿⣿⣿⣿⣿⡀⣿⠁⣿⡟⠁⣴⠟⣡⡄⢸⣿⣿⡀⢹⣿⣿⣿⣿⣿⣿⣿⣿⠀⣸⣿⣿⣆⠘⢿
-⣿⣿⣿⣿⣿⣿⠀⣸⡿⢁⠈⣿⣿⣿⣿⣿⡿⠁⠸⡀⠏⠀⠞⣡⣾⣿⠁⣾⣿⣿⣇⠈⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣧⠈
+### Unity & C#
 
-  
-</pre>
+Small game prototypes and gameplay experiments. A place to practice C#, try mechanics and build something playable.
+
+[Browse game development work →](https://github.com/Korkogor?tab=repositories)
+
+<br />
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="Understand the system. Automate the routine. Keep learning. Keep building." />
+</p>
