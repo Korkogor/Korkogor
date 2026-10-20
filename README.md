@@ -88,7 +88,7 @@ Exploring classical forecasting and neural networks through reproducible Python 
 **Infrastructure Engineering → DevOps → Cloud & Platform Engineering**
 
 <p>
-  <img src=".bash.svg" width="48" height="48" alt="Bash" title="Bash" />
+  <img src="bash.svg" width="48" height="48" alt="Bash" title="Bash" />
   <img src="docker.svg" width="48" height="48" alt="Docker" title="Docker" />
   <img src="ansible.svg" width="48" height="48" alt="Ansible" title="Ansible" />
   <img src="terraform.svg" width="48" height="48" alt="Terraform" title="Terraform" />
