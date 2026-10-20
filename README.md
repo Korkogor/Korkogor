@@ -1,13 +1,13 @@
 <!-- Korkogor | Personal GitHub profile | red + graphite -->
 
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Korkogor — Support. Systems. Automation. Building a path from IT support to infrastructure." />
+  <img src="profile-hero.svg" width="100%" alt="Korkogor — Support. Systems. Automation. Building a path from IT support to infrastructure." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Korkogor?tab=repositories"><img src="./assets/button-repositories.svg" width="175" height="42" alt="Browse repositories" /></a>
+  <a href="https://github.com/Korkogor?tab=repositories"><img src="button-repositories.svg" width="175" height="42" alt="Browse repositories" /></a>
   &nbsp;
-  <a href="#03--learning-path"><img src="./assets/button-roadmap.svg" width="160" height="42" alt="Explore my learning path" /></a>
+  <a href="#03--learning-path"><img src="./button-roadmap.svg" width="160" height="42" alt="Explore my learning path" /></a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Exploring classical forecasting and neural networks through reproducible Python 
 
 | Stage | Focus | Status |
 | :--- | :--- | :---: |
-| **Foundations** | Linux administration, networking, Python, Git | <img src="./assets/status-active.svg" width="74" height="24" alt="Active" /> |
+| **Foundations** | Linux administration, networking, Python, Git | <img src="./status-active.svg" width="74" height="24" alt="Active" /> |
 | **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="./assets/status-next.svg" width="62" height="24" alt="Next" /> |
 | **Infrastructure as Code** | Terraform, repeatable provisioning, configuration management | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
 | **Platform operations** | Kubernetes, cloud infrastructure, observability | <img src="./assets/status-planned.svg" width="86" height="24" alt="Planned" /> |
