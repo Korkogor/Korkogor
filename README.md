@@ -34,8 +34,8 @@ Alongside my master's studies, I explore **Infrastructure as Code** and automate
   <img src="github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </p>
 
-**Practical foundation:** Windows administration, Active Directory, PowerShell and IT troubleshooting.  
-**Learning & practice:** Linux, networking, Python, Git and GitHub.
+**Practical foundation:** Windows administration, Active Directory, Powershell, Linux, networking, Python, Git and GitHub. and IT troubleshooting.  
+
 
 ### Data & forecasting
 
