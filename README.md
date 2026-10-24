@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>IT Support Engineer</b> &nbsp;→&nbsp; Infrastructure / DevOps / Cloud<br />
-  <sub>Master's student in Computer Science and Engineering · Information Systems Architecture</sub>
+  <b>Master's student in Computer Science and Engineering · Information Systems Architecture</b>
 </p>
 
 ## 01 / Profile
