@@ -1,7 +1,7 @@
-<!-- Korkogor | Personal GitHub profile | red + graphite -->
+<!-- Korkogor | Personal GitHub profile | Princess Luna night palette -->
 
 <p align="center">
-  <img src="profile-hero.svg" width="100%" alt="Korkogor — Support. Systems. Automation. Building a path from IT support to infrastructure." />
+  <img src="profile-hero.svg" width="100%" alt="Korkogor — Support. Systems. Automation. A moonlit blue banner inspired by Princess Luna." />
 </p>
 
 <p align="center">
@@ -34,8 +34,7 @@ Alongside my master's studies, I explore **Infrastructure as Code** and automate
   <img src="github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </p>
 
-**Practical foundation:** Windows administration, Active Directory, Powershell, Linux, networking, Python, Git and GitHub. and IT troubleshooting.  
-
+**Practical foundation:** Windows administration, Active Directory, PowerShell, Linux, networking, Python, Git, GitHub and IT troubleshooting.
 
 ### Data & forecasting
 
@@ -68,7 +67,6 @@ Academic coursework in data analysis, time series forecasting and reproducible P
 
 Unity & C# — small games, prototypes and gameplay experiments.
 
-
 <details>
 <summary><b>Time series & forecasting — coursework details</b></summary>
 
@@ -95,12 +93,12 @@ Exploring classical forecasting and neural networks through reproducible Python 
   <img src="kubernetes.svg" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
 </p>
 
-*Planned tools for automation, infrastructure and platform engineering.*
+*Learning goals for automation, infrastructure and platform engineering.*
 
 | Stage | Focus | Status |
 | :--- | :--- | :---: |
 | **Foundations** | Linux administration, networking, Python, Git | <img src="status-active.svg" width="74" height="24" alt="Active" /> |
-| **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="status-active.svg" width="62" height="24" alt="Next" /> |
+| **Automation & delivery** | Bash, Docker, CI/CD, Ansible | <img src="status-active.svg" width="74" height="24" alt="Active" /> |
 | **Infrastructure as Code** | Terraform, repeatable provisioning, configuration management | <img src="status-planned.svg" width="86" height="24" alt="Planned" /> |
 | **Platform operations** | Kubernetes, cloud infrastructure, observability | <img src="status-planned.svg" width="86" height="24" alt="Planned" /> |
 

@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title">
-  <title id="title">Understand the system. Automate the routine. Keep improving.</title>
+<title id="title">Understand the system. Automate the routine. Keep learning. Keep building.</title>
 
-  <rect width="1200" height="116" fill="#0B0D11"/>
-  <rect width="5" height="116" fill="#FF293D"/>
-  <text x="36" y="48" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#F5F6F8">Understand the system. Automate the routine.</text>
-  <text x="37" y="81" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing="1.8" fill="#A6ACB7">KEEP LEARNING. KEEP BUILDING.</text>
-  <path d="M1083 38L1107 58L1083 78M1110 38L1134 58L1110 78" fill="none" stroke="#FF293D" stroke-width="7"/>
+<defs><linearGradient id="night"><stop stop-color="#0B162D"/><stop offset="1" stop-color="#16264D"/></linearGradient><linearGradient id="edge" x2="0" y2="1"><stop stop-color="#78E4EB"/><stop offset="1" stop-color="#B8B6F4"/></linearGradient><mask id="moon"><rect width="1200" height="116" fill="black"/><circle cx="1100" cy="57" r="26" fill="white"/><circle cx="1111" cy="48" r="25" fill="black"/></mask></defs>
+<rect width="1200" height="116" rx="5" fill="url(#night)"/>
+<rect width="4" height="116" fill="url(#edge)"/>
+<text x="36" y="48" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#E8F0FF">Understand the system. Automate the routine.</text>
+<text x="37" y="81" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing="1.8" fill="#A3B5D6">KEEP LEARNING. KEEP BUILDING.</text>
+<rect width="1200" height="116" fill="#C8EAF6" mask="url(#moon)"/>
+<path d="M1153 28Q1153 32 1157 32Q1153 32 1153 36Q1153 32 1149 32Q1153 32 1153 28Z" fill="#78E4EB" opacity="0.8"/><path d="M1048 75Q1048 78 1051 78Q1048 78 1048 81Q1048 78 1045 78Q1048 78 1048 75Z" fill="#B8B6F4" opacity="0.7"/>
 
 </svg>
