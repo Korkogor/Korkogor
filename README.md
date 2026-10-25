@@ -58,6 +58,18 @@ Alongside my master's studies, I explore **Infrastructure as Code** and automate
 
 Academic coursework in data analysis, time series forecasting and reproducible Python notebooks.
 
+### Blockchain & smart contracts
+
+<p>
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" title="Ethereum" />
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="48" height="48" alt="Solidity" title="Solidity" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=remix&theme=dark" width="48" height="48" alt="Remix IDE" title="Remix IDE" />
+</p>
+
+Hands-on experiments with smart contracts, local blockchain networks and JavaScript-based contract interaction.
+
 ### Game development
 
 <p>
@@ -113,6 +125,10 @@ My academic research focuses on **Infrastructure as Code and automated managemen
 Console applications and coursework projects: strings, lists, dictionaries, input validation and search logic. Academic notebooks explore data analysis, forecasting and reproducible experiments.
 
 [Explore repositories →](https://github.com/Korkogor?tab=repositories)
+
+### Ethereum & blockchain development
+
+Exploring Ethereum development and blockchain infrastructure through practical experiments with Solidity, Hardhat, Remix IDE and Web3.js.
 
 ### Unity & C#
 
